@@ -90,4 +90,4 @@ Esquema real generado por pgAdmin 4 (coincide con el modelo lógico):
 
 ---
 
-<p align="center"><sub>Equipo del proyecto SQL: Julián, Erick, Jaime, Catalin, Dan, David · The Bridge</sub></p>
+<p align="center"><sub>Equipo del proyecto SQL:  Erik, Julián, Jaime, Catalin, Dan, David · The Bridge</sub></p>
